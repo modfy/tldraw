@@ -532,7 +532,7 @@ const StyledLayout = styled('div', {
   minWidth: 0,
   maxHeight: '100%',
   maxWidth: '100%',
-  overflow: 'hidden',
+  // overflow: 'hidden',
   boxSizing: 'border-box',
   outline: 'none',
 
